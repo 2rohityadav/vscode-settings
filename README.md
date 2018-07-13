@@ -23,7 +23,7 @@
 
 ## HTML Framework
 
-*[Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+* [Bootstrap 4 & Font awesome snippets](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
   * Containing Bootstrap 4, Font awesome 4 & Font Awesome 5 Free & Pro snippets
 
 ## Workflow
