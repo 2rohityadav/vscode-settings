@@ -235,10 +235,7 @@
               "variable.other",
               "variable.other.readwrite",
               "variable.parameter"
-            ],
-            "settings": {
-              "fontStyle": ""
-            }
+            ]
           }
         ]
       }
