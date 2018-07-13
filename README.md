@@ -1,9 +1,5 @@
 # VS Code Settings
 
-# Font
-
-* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-
 # Extensions
 
 ## JavaScript
@@ -93,7 +89,6 @@
 
 ```json
 {
-    // user snippets settings
     "editor.tabCompletion": true,
     "editor.snippetSuggestions": "top",
     "editor.quickSuggestions": {
@@ -101,45 +96,28 @@
       "comments": true,
       "strings": true
     },
-      // font Family
-      // "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-      // Git Bash
-      "terminal.integrated.shell.windows": "C:\\Users\\rohityadav\\AppData\\Local\\Programs\\Git\\usr\\bin\\bash.exe",
+      "terminal.integrated.shell.windows": "Path of [base.exe]",
       "editor.wordWrap": "on",
-      // Vue emmet support
       "emmet.syntaxProfiles": {
           "vue-html": "html",
           "vue": "html"
       },
-    //   "eslint.validate": [
-    //       "javascript",
-    //       "javascriptreact",
-    //       "vue"
-    //   ],
       "editor.tabSize": 2,
       "editor.detectIndentation": false,
       "window.zoomLevel": 0,
       "workbench.iconTheme": "vscode-icons",
-  
-    //   "htmlhint.options": {
-    //     "attr-lowercase": false,
-    //     "doctype-first": false
-    //   },
-      //"atomKeymap.promptV3Features": true,
       "vsicons.projectDetection.autoReload": true,
-  
+
       "git.enabled": true,
-      "git.path": "C:\\Users\\rohityadav\\AppData\\Local\\Programs\\Git\\bin\\git.exe",
+      "git.path": "Path of [git.exe]",
   
-      // FiraCode
       "editor.fontFamily": "Fira Code",
       "editor.fontLigatures": true,
       "files.associations": {
         ".eslintrc": "jsonc"
       },
-      // Set the default
       "editor.formatOnSave": false,
-      // Enable per-language
+
       "[javascript]": {
           "editor.formatOnSave": true
       },
@@ -149,10 +127,10 @@
         "plaintext": false,
         "json": true
     },
+      "liveshare.connectionMode": "relay",
+
       "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
       "debug.toolBarLocation": "docked",
-      
-      // [themes] Disable Italic Option Feature
       "editor.tokenColorCustomizations": {
         "textMateRules": [
           {
@@ -263,7 +241,6 @@
             }
           }
         ]
-      },
-      "liveshare.connectionMode": "relay"
+      }
     }
 ```
