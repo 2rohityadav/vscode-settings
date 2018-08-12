@@ -50,6 +50,8 @@
   * Help you create more human-friendly comments in your code.
 * [language-stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
   * Adds syntax highlighting and code completion to Stylus files
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+  * The Better Comments extension will help you create more human-friendly comments in your code.
 
 ## Themes/Color
 
